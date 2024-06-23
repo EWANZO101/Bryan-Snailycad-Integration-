@@ -48,7 +48,7 @@ but i get this error
 [ script:bryan_snaily] SCRIPT ERROR: @bryan_snaily/server/server.lua:39: [Error] API Error: 400 badRequest
 [ script:bryan_snaily] > userCallback (@bryan_snaily/server/server.lua:39)] <Error_Type>`
 - **Resolution:**
--  [Go to fix](https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/2fix.md)
+-  [Go to fix]([https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/2fix.md](https://github.com/EWANZO101/Bryan-Snailycad-Integration-/blob/main/fix2.md))
 ----
 ------------------------------------------------------------------------------------------------------
 ### 3. [Script: <script_name>] <Error_Type>
